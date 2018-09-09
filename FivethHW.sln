@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveHW", "FiveHW\FiveHW.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FivethHWT2", "FivethHWT2\FivethHWT2.csproj", "{BD69ABE7-1981-4041-B612-B4EBF182ED2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveHW2", "FiveHW2\FiveHW2.csproj", "{76DC458C-196A-414C-8D80-75FB91680914}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BD69ABE7-1981-4041-B612-B4EBF182ED2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD69ABE7-1981-4041-B612-B4EBF182ED2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD69ABE7-1981-4041-B612-B4EBF182ED2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DC458C-196A-414C-8D80-75FB91680914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DC458C-196A-414C-8D80-75FB91680914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DC458C-196A-414C-8D80-75FB91680914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DC458C-196A-414C-8D80-75FB91680914}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
